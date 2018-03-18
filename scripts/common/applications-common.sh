@@ -8,6 +8,7 @@ echo "Installing applications"
 # Utilities
 
 brew cask install flycut
+brew install caffeine
 brew cask install shiftit
 echo
 echo "configure shiftit to select 1/3 screen width, 1/2 screen width and 2/3 screen width:"
@@ -28,13 +29,10 @@ brew cask install firefox
 # Communication
 
 brew cask install slack
-brew cask install skype
 
 # Text Editors
 
 brew cask install macdown
-brew cask install sublime-text
-brew cask install textmate
-brew cask install macvim
+brew cask install atom
 
 set -e

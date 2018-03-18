@@ -1,8 +1,6 @@
 pairs:
-  bk: Brian Kelly; bkelly
-  ah: Ashraf Hanafy; ahanafy
+  bk: Brandon Kearns; brandon_kearns1@homedepot.com
 
 email:
   prefix: pair
-  domain: pivotal.io
-
+  domain: homedepot.com
